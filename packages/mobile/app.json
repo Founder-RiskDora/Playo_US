@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "Playo US",
+    "slug": "playo-us",
+    "version": "1.0.0",
+    "scheme": "playo-us",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#16a34a"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#16a34a"
+      }
+    },
+    "plugins": ["expo-router"]
+  }
+}
